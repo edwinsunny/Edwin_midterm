@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/Users/edwinsunny/Documents/Unreal Projects/Edwin_midterm/Plugins/Rintime/HoudiniEngineForUnreal/Source/HoudiniEngine/HoudiniEngine.Build.cs",
+		"/Users/edwinsunny/Documents/Unreal Projects/Edwin_midterm/Plugins/Rintime/HoudiniEngineForUnreal/Source/HoudiniEngineRuntime/HoudiniEngineRuntime.Build.cs",
+		"/Users/edwinsunny/Documents/Unreal Projects/Edwin_midterm/Plugins/Rintime/HoudiniEngineForUnreal/Source/HoudiniEngineEditor/HoudiniEngineEditor.Build.cs",
+		"/Users/edwinsunny/Documents/Unreal Projects/Edwin_midterm/Intermediate/Source/Edwin_midterm.Build.cs",
+		"/Users/edwinsunny/Documents/Unreal Projects/Edwin_midterm/Intermediate/Source/Edwin_midterm.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
